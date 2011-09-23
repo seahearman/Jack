@@ -1,0 +1,5 @@
+D:\Projects\Jack\58-61_s_2\FormatTransfer\FormatTransfer\bin\Debug\FormatTransfer.exe
+D:\Projects\Jack\58-61_s_2\FormatTransfer\FormatTransfer\bin\Debug\FormatTransfer.pdb
+D:\Projects\Jack\58-61_s_2\FormatTransfer\FormatTransfer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Jack\58-61_s_2\FormatTransfer\FormatTransfer\obj\x86\Debug\FormatTransfer.exe
+D:\Projects\Jack\58-61_s_2\FormatTransfer\FormatTransfer\obj\x86\Debug\FormatTransfer.pdb
